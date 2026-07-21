@@ -1,0 +1,5 @@
+User: Shivani
+Balance: ₹100000.0
+-------------------------
+Portfolio:
+No stocks purchased.
